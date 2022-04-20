@@ -6,7 +6,11 @@ Converting One jpeg image to HTML responsive website.This is for Learning Purpos
 * Image
 * Editor(sublime text)
 
-[Demo to View](https://aklimaruhina.github.io/quicktheme/)
+## Link i follow to learn
+* [W3schools](https://www.w3schools.com/)
+* [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+
+## [Demo to View](https://aklimaruhina.github.io/quicktheme/)
 
 ![alt text][screenshot]
 
