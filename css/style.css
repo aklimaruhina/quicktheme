@@ -48,7 +48,7 @@ header{padding: 20px 0;border-bottom: 1px solid #EEF0F3;}
 /*banner end here*/
 
 /*project starts here*/
-
+.project{margin-bottom: 15px;}
 .content-box .leftbox{padding-right: 10px;}
 .content-box .rightbox{padding-left: 10px}
 .content-box h1{font-size: 3.5rem;line-height: 3.5rem;}
